@@ -26,3 +26,7 @@ by M. de Vaan is copyrighted by Brill.
 The dictionary entries are not represented. The data here include only serve to
 express them according to the selected ontology and link them to the Knowledge
 Base of Latin lemmas of [LiLa]().
+
+## Credits and Funding
+
+The LiLa: Linking Latin project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
