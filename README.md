@@ -8,7 +8,7 @@ In this repository we store data that:
 This is an [example](https://lila-erc.eu/data/lexicalResources/BrillEDL/id/etymology/184)
 of etymology, which can also be visualized using [LodLive](https://lila-erc.eu/lodlive/app_en.html?http://lila-erc.eu/data/lexicalResources/BrillEDL/id/etymology/184).
 
-## How are the etymology represented
+## How are the etymologies represented
 
 We model the etymologies using the [`LemonEty`](https://github.com/anasfkhan81/lemonEty)
 ontology. `LemonEty` is based on [Ontolex](https://www.w3.org/2016/05/ontolex/)
