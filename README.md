@@ -16,6 +16,10 @@ and is therefore easily integrated into LiLa.
 
 ## How to cite
 
+Cite the dataset: [![DOI](https://zenodo.org/badge/298597525.svg)](https://zenodo.org/badge/latestdoi/298597525)
+
+Or include a reference to the following paper:
+
 Mambrini, F. and Passarotti, M., 2020. Representing etymology in the LiLa knowledge base of linguistic resources for Latin. In *Proceedings of the Globalex Workshop on Linked Lexicography. LREC 2020 Workshop*, pp. 20-28. Marseille: European Language Resources Association (ELRA).
 
 ## Copyright
