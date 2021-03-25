@@ -22,6 +22,8 @@ Or include a reference to the following paper:
 
 Mambrini, F. and Passarotti, M., 2020. Representing etymology in the LiLa knowledge base of linguistic resources for Latin. In *Proceedings of the Globalex Workshop on Linked Lexicography. LREC 2020 Workshop*, pp. 20-28. Marseille: European Language Resources Association (ELRA).
 
+This resource is also available in the ILC4CLARIN repository of CLARIN-IT: [http://hdl.handle.net/20.500.11752/OPEN-533](http://hdl.handle.net/20.500.11752/OPEN-533)
+
 ## Copyright
 
 *The Etymological Dictionary of Latin and the other Italic Languages*, authored
