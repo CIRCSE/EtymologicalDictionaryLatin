@@ -27,11 +27,13 @@ This resource is also available in the ILC4CLARIN repository of CLARIN-IT: [http
 ## Copyright
 
 *The Etymological Dictionary of Latin and the other Italic Languages*, authored
-by M. de Vaan is copyrighted by Brill.
+by M. de Vaan, is copyrighted by [Brill](https://brill.com/).
 
-The dictionary entries are not represented. The data here include only serve to
+The dictionary entries are not represented. The data included here only serve to
 express them according to the selected ontology and link them to the Knowledge
-Base of Latin lemmas of [LiLa]().
+Base of Latin lemmas of [LiLa](https://lila-erc.eu/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />The files in this repository are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Credits and Funding
 
