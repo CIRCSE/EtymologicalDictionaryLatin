@@ -53172,6 +53172,7 @@
 <http://lila-erc.eu/data/lexicalResources/BrillEDL/Lexicon>
         a               frbr:Work , crm:E31 , lime:Lexicon ;
         rdfs:label      "Etymological Dictionary of Latin (Brill)" ;
+        rdfs:seeAlso    <https://github.com/CIRCSE/EtymologicalDictionaryLatin> ;
         dc:creator      viaf:118278497 ;
         dc:description  "New etymological dictionary that covers the entire Latin lexicon of Indo-European origin. It consists of nearly 1900 entries, which altogether discuss about 8000 Latin lemmata. Only some information about P-I.E. and Proto-Italic roots is accessible via LiLa."@en ;
         dc:issued       "2008-25-06" ;
